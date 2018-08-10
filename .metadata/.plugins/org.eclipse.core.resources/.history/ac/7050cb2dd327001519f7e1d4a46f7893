@@ -1,0 +1,8 @@
+
+public class Pawn extends Piece  {
+
+	public Pawn(int a , Pos p, Traits t)  {
+		super(a, p, t);
+	}
+	
+}

@@ -1,0 +1,11 @@
+public class Rook  extends Piece {
+
+	public Rook(int a, Pos p, Traits t) {
+		super(a, p, t) ;
+		
+	}
+	
+	
+	
+	
+}

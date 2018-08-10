@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+
+/*
+ * Class with the behavioural traits of a piece. 
+ */
+
+class Traits {
+		int color ;
+		ArrayList<Pos>  nextPos  ;
+		
+		public Traits ( int c, ArrayList<Pos> arr ) {
+			this.color  = c ;
+			this.nextPos = arr ;
+		}
+		
+		
+		
+	}
+	

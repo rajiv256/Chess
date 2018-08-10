@@ -1,0 +1,19 @@
+/*
+ * Class to represent a piece on the board.
+ */
+public class Piece {
+		int id ; 
+		boolean alive ; 
+		Pos p ;
+		Traits traits ;
+		
+		public Piece( int a, Pos p , Traits t ){
+			this.id = a ;
+			this.p  = p ;
+			this.traits = t ;
+			
+		}
+		
+		
+	}
+	

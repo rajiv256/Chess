@@ -1,0 +1,15 @@
+
+public class Move {
+	int color ; 
+	int id ; 
+	Pos from ;
+	Pos to ; 
+	
+	public Move( int color , int id , Pos from , Pos to ) {
+		this.color  = color ;
+		this.id        = id  ;
+		this.from   = from ;
+		this.to        = to ;
+	}
+	
+}

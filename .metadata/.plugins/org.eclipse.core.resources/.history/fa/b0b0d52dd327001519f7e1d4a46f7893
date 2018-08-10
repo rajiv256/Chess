@@ -1,0 +1,9 @@
+public class Knight extends Piece {
+
+	
+	public Knight(int a, Pos p, Traits t) {
+		super(a, p, t);
+		
+	}
+
+}

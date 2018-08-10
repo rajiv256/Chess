@@ -1,0 +1,8 @@
+public class Queen extends Piece {
+
+	public Queen(int a, Pos p, Traits t) {
+		super(a, p, t);
+		
+	}
+
+}

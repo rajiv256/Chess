@@ -1,0 +1,8 @@
+public class King extends Piece {
+
+	public King(int a, Pos p, Traits t) {
+		super(a, p, t) ;
+		
+	}
+
+}
