@@ -1,1 +1,1 @@
-This is my Chess 1-player
+This is my Chess Single Player Engine, with AI. 
